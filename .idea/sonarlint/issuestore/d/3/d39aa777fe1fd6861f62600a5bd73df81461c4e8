@@ -1,0 +1,10 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ù÷Âé8×Œ¿Ê1
+y	java:S127_"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö¸å”ıÿÿÿÿ8×Œ¿Ê1
+s	java:S127e"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÎ´?8×Œ¿Ê1
+y	java:S127h"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8×Œ¿Ê1
+y	java:S127o"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ8×Œ¿Ê1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(ÖÇ‰¤8é×Œ¿Ê1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 106 to 64, Complexity from 24 to 14, Nesting Level from 8 to 2, Number of Variables from 21 to 6.(ÖÇ‰¤8ù×Œ¿Ê1

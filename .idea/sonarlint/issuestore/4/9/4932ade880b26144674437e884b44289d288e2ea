@@ -1,0 +1,23 @@
+
+T
+java:S1874R"7Remove this use of "getCellTypeEnum"; it is deprecated.(ÓçÇ¶8Â³ÓèÊ1
+Y
+java:S1874S"7Remove this use of "getCellTypeEnum"; it is deprecated.(‰ÕˆÏúÿÿÿÿ8Ã³ÓèÊ1
+T
+java:S1874T"7Remove this use of "getCellTypeEnum"; it is deprecated.(«¿œ®8Ã³ÓèÊ1
+Y
+java:S1874i"7Remove this use of "getCellTypeEnum"; it is deprecated.(Ã–ùıÿÿÿÿ8Ë³ÓèÊ1
+T
+java:S1874v"7Remove this use of "getCellTypeEnum"; it is deprecated.(ïåûê8Ğ³ÓèÊ1
+Y
+java:S1874|"7Remove this use of "getCellTypeEnum"; it is deprecated.(ƒŒ’ªıÿÿÿÿ8Ò³ÓèÊ1
+T
+java:S1874~"7Remove this use of "getCellTypeEnum"; it is deprecated.(íûŞê8Ò³ÓèÊ1
+Z
+java:S1874"7Remove this use of "getCellTypeEnum"; it is deprecated.(ıáëüÿÿÿÿ8Ô³ÓèÊ1
+Z
+java:S1874ƒ"7Remove this use of "getCellTypeEnum"; it is deprecated.(‚×³¦ÿÿÿÿÿ8Õ³ÓèÊ1
+Z
+java:S1874…"7Remove this use of "getCellTypeEnum"; it is deprecated.(¶‚øÿÿÿÿ8Ö³ÓèÊ1
+y
+java:S1128"WRemove this unused import 'org.apache.poi.openxml4j.exceptions.InvalidFormatException'.(Èö»ûÿÿÿÿ8İœÙèÊ1
