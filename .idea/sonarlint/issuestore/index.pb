@@ -48,3 +48,5 @@ w
 Gsrc/test/java/com.exito/stepDefinitions/buyProductsStepDefinitions.java,9\0\90b526607b54c62a6b5a8437e8b1166da620c863
 `
 0src/test/resources/features/userRegister.feature,7\9\79c24cbc7b452c90523e1e8cc0dab9ed3ef4d64b
+c
+3src/main/java/com/exito/tasks/TaskPruebaCommit.java,f\6\f6f63571cafdedd7e4bb4a2007e9887ab5ba139b
