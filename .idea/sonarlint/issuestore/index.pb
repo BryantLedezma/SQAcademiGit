@@ -52,3 +52,5 @@ c
 3src/main/java/com/exito/tasks/TaskPruebaCommit.java,f\6\f6f63571cafdedd7e4bb4a2007e9887ab5ba139b
 i
 9src/main/java/com/exito/tasks/Task2PruebaCommitRama2.java,3\7\37b14a321475b96bfdbabfb08e61dc31305c5fc7
+5
+salir,6\8\684ce6a058b8e008f2a5199ef912b84620c49758
